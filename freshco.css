@@ -1,0 +1,139 @@
+.head1{
+    background-color:white;
+    padding-bottom:0px;
+    width: 100%;
+    height: 10px;
+
+}
+.imagesize{
+    width: 90px;
+    height:auto;
+    padding-top:10px;
+}
+  
+
+li a {
+    
+    float: right;
+     font-size:small;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    display: block;
+    padding:8px;
+    
+    
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  a:hover{
+    color:greenyellow;
+  }
+  nav{
+    background-image: url(back1.jpg);
+    background-size: cover;
+    background-position:center;
+  background-repeat: no-repeat, repeat;
+  }
+  h1{
+    padding-bottom: 390px;
+    padding-top: 150px;
+    text-align: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size:xx-large;
+    color: darkgreen;
+  }
+  h3{
+    text-align: right;
+    color:darkcyan;
+  }
+  .about p{
+  
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+  }
+  .about ul{
+    padding-bottom: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .footer {
+    background-color:greenyellow;
+    padding: 20px 0;
+    text-align: center;
+    
+    top: 40%;
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.footer a {
+    color:black;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+  
+
+  .hero-button {
+    background-color:darkcyan;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 21px;
+  }
+  .hero{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    padding:20px;
+
+  }
+  .gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+    height: 450px;
+    right: 50%;
+    padding:20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 0ch;
+    padding-top: 1px;
+  }
+.gallery:hover {
+    border: 1px solid;
+    color:lime;
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .desc {
+
+    text-align:center;
+  } 
+  
+  
